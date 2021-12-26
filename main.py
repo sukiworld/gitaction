@@ -23,4 +23,3 @@ if __name__ == "__main__":
     upload_github_issue(repo, issue_title, upload_contents)
     print("Upload Github Issue Success!")
 
-
